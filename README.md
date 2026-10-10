@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Bhayani
+# Hi, I'm Ayush Bhayani
 
 ### 📊 Data Analytics | Business Intelligence | Power BI | SQL | Python
 
