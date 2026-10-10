@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Bhayani
 
-### 📊 Data Analytics | Business Intelligence | Power BI | SQL | Python
+### Data Analytics | Business Intelligence | Power BI | SQL | Python
 
 I'm an aspiring **Data Analyst** focused on turning raw data into meaningful business insights through analytics, visualization, and problem-solving.
 
@@ -8,7 +8,7 @@ I enjoy building practical projects using **Power BI, SQL, Python, and Excel** t
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Data Analytics**
 
@@ -31,7 +31,7 @@ I enjoy building practical projects using **Power BI, SQL, Python, and Excel** t
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📊 DataPulse — Power BI
 
@@ -46,11 +46,11 @@ A 4-page Business Intelligence dashboard covering:
 * Monthly trends
 * Business insights
 
-🔗 **[View Project](https://github.com/wewinhopefully/DataPulse-PowerBI)**
+ **[View Project](https://github.com/wewinhopefully/DataPulse-PowerBI)**
 
 ---
 
-### 📈 Sales Performance Dashboard
+###  Sales Performance Dashboard
 
 Interactive Power BI dashboard built with Excel data to analyze:
 
@@ -65,7 +65,7 @@ Interactive Power BI dashboard built with Excel data to analyze:
 
 ---
 
-### 🏏 Virat Kohli vs MS Dhoni — Power BI
+###  Virat Kohli vs MS Dhoni — Power BI
 
 Interactive cricket analytics dashboard comparing the career performance of **Virat Kohli** and **MS Dhoni**.
 
@@ -77,11 +77,11 @@ Includes:
 * Interactive player selection
 * Comparative visualizations
 
-🔗 **[View Project](https://github.com/wewinhopefully/Kohli-vs-Dhoni-PowerBI)**
+ **[View Project](https://github.com/wewinhopefully/Kohli-vs-Dhoni-PowerBI)**
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 * Advanced SQL
 * Advanced Power BI & DAX
@@ -91,7 +91,7 @@ Includes:
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 I'm currently building my skills and portfolio toward a career in:
 
@@ -99,11 +99,11 @@ I'm currently building my skills and portfolio toward a career in:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/ayush-bhayani-1895a6364
-* 📧 Email: ayushbhayani949@gmail.com
+*  LinkedIn: www.linkedin.com/in/ayush-bhayani-1895a6364
+*  Email: ayushbhayani949@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
