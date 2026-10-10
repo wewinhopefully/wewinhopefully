@@ -33,7 +33,7 @@ I enjoy building practical projects using **Power BI, SQL, Python, and Excel** t
 
 ##  Featured Projects
 
-### 📊 DataPulse — Power BI
+###  DataPulse — Power BI
 
 A 4-page Business Intelligence dashboard covering:
 
@@ -61,7 +61,7 @@ Interactive Power BI dashboard built with Excel data to analyze:
 * Customer behavior
 * Monthly sales trends
 
-🔗 **[View Project](https://github.com/wewinhopefully/Sales-Dashboard-PowerBI)**
+ **[View Project](https://github.com/wewinhopefully/Sales-Dashboard-PowerBI)**
 
 ---
 
